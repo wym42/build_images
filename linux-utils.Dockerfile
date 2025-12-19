@@ -1,3 +1,4 @@
-FROM docker.io/kubesphere/coredns:v1.11.1
+FROM docker.io/openebs/linux-utils:4.2.0
+
 USER shangyan.wq
 
